@@ -43,7 +43,7 @@
 
 ## 📬 Contact
 - ✉️ Email: <rohamid90@gmail.com>
-- 🐙 GitHub: (https://github.com/rohamid)
-- 🔗 LinkedIn: https://linkedin.com/in/rohamid
+- 🐙 GitHub: [github.com/rohamid](https://github.com/rohamid)
+- 🔗 LinkedIn: [linkedin.com/in/rohamid](https://www.linkedin.com/in/rohamid-01a824283/)
 
 🤝 Open to collaborations, consulting, and embedded hardware/firmware projects.
