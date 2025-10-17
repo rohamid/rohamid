@@ -42,8 +42,8 @@
 - B.Sc. Electronic Engineering - Islamic University '45' Bekasi, Indonesia
 
 ## 📬 Contact
-- ✉️ Email: <your.email@example.com>
-- 🐙 GitHub: ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) [your-username](https://github.com/your-username)
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile
+- ✉️ Email: <rohamid90@gmail.com>
+- 🐙 GitHub: ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) [your-username](https://github.com/rohamid)
+- 🔗 LinkedIn: https://linkedin.com/in/rohamid
 
 🤝 Open to collaborations, consulting, and embedded hardware/firmware projects.
