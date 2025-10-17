@@ -24,6 +24,7 @@
 
 ## 🧩 Selected Project Types
 - 🚗 Motor controllers and power electronics with STM32 drivers
+- 🤖 Robotics and motion-control systems (sensors, actuators, closed-loop control)
 - 🔋 Battery management and charging systems
 - 🌡️ Sensor nodes and custom communication firmware
 - 🖥️ Embedded GUI applications (TouchGFX, LVGL)
