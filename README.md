@@ -17,7 +17,8 @@
 
 ## 🧭 Tools & Technologies
 - 🖥️ KiCad, Altium (EDA tools)
-- 🛠️ STM32CubeMX, STM32CubeIDE, Keil MDK (µVision), OpenOCD (firmware/toolchain), TouchGFX Designer, LVGL
+- 🛠️ STM32CubeMX, STM32CubeIDE, Keil MDK (µVision), OpenOCD (firmware/toolchain),
+- 🖥️ TouchGFX Designer, LVGL (GUI design)
 - 💻 C, C++ (embedded), 🐍 Python (scripts, tests)
 - 📈 Oscilloscope, 🔌 Multimeter, 📊 Logic analyzer, 🔧 Soldering stations
 - 🏭 PCB fabrication and assembly workflow
